@@ -1,0 +1,8 @@
+student = ("archana",12,"python" )
+print("orginal:",student)
+student = student + ("Mangalam college",)
+print("after add:",student)
+student =  ( "Archana" ,22,"python" , "Mangala college" )
+print("after update:",student)
+student = ( "Archana" ,22,"mangalam college" )
+print ("after removed:",student)
